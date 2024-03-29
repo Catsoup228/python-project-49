@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+
+from ..cli import welcome_user
+
+welcome_user()
+
 def greet(text):
     print(text)
 
