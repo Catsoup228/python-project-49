@@ -21,4 +21,3 @@ def main():
             print(f"'{answer}' is wrong answer ;(. Correct answer was '{options[ran_num % 2]}'.\nLet's try again, {name}!");
             return  
     print(f'Congratulations, {name}!')
-

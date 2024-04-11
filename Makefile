@@ -7,6 +7,9 @@ brain-games:
 brain-even:
 	poetry run python -m brain_games1.scripts.brain_even
 
+brain-calc:
+	poetry run python -m brain_games1.scripts.brain_calc
+
 publish:
 	poetry publish --dry-run
 

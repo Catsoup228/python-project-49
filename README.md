@@ -6,3 +6,6 @@
 
 Игра 1: проверка на четность 
     пример: https://asciinema.org/a/LLyl4h9jQ3waYd9kYuJ0v4cuG
+
+Игра 2: калькулятор 
+[![asciicast](https://asciinema.org/a/sk9rAhVszUwjyjc383p7J8dqp.svg)](https://asciinema.org/a/sk9rAhVszUwjyjc383p7J8dqp)
