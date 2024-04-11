@@ -1,4 +1,3 @@
-#from brain_games1.index import game_logic
 from brain_games1.random import random_num
 import random 
 

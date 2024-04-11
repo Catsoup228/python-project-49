@@ -9,3 +9,6 @@
 
 Игра 2: калькулятор 
 [![asciicast](https://asciinema.org/a/sk9rAhVszUwjyjc383p7J8dqp.svg)](https://asciinema.org/a/sk9rAhVszUwjyjc383p7J8dqp)
+
+Игра 3: наибольший общий делитель 
+[![asciicast](https://asciinema.org/a/S4odnO5Ek0H0PvEABIwM9Djf3.svg)](https://asciinema.org/a/S4odnO5Ek0H0PvEABIwM9Djf3)

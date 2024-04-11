@@ -1,4 +1,4 @@
 import random
 
 def random_num():
-    return random.randrange(0, 10)
+    return random.randrange(0, 100)
