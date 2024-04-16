@@ -7,4 +7,5 @@ def main():
     welcome_user()
 
 
-main()
+if __name__ == '__main__':
+    main()
