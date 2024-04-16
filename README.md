@@ -15,3 +15,6 @@
 
 Игра 4: прогрессия 
 [![asciicast](https://asciinema.org/a/UWMcqRZ3xJfd7GwUktrfxkayE.svg)](https://asciinema.org/a/UWMcqRZ3xJfd7GwUktrfxkayE)
+
+Игра 5: простое число
+[![asciicast](https://asciinema.org/a/ROfr79c7f5IHWmS6BZpBbCBJQ.svg)](https://asciinema.org/a/ROfr79c7f5IHWmS6BZpBbCBJQ)
