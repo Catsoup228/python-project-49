@@ -1,7 +1,8 @@
 from brain_games1.random import random_num
-import random 
+import random
 
 description = 'What is the result of the expression?'
+
 
 def game_actions():
     first_number = random_num()
@@ -11,7 +12,6 @@ def game_actions():
     operator = random.choice(operators)
 
     question = f'{first_number} {operator} {second_number}'
-
     answer = 0
 
     if operator == '+':
@@ -23,4 +23,3 @@ def game_actions():
     right_answer = str(answer)
 
     return question, right_answer
-
